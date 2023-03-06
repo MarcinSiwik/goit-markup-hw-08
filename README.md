@@ -1,1 +1,1 @@
-https://marcinsiwik.github.io/goit-markup-hw-08/
+https://marcinsiwik.github.io/goit-markup-hw-08
